@@ -1,5 +1,9 @@
 # 💫 About Me:
-👋 Hi, I'm Mohamed Mebarki<br>💻 Front-End Web Developer<br><br>I’m a passionate front-end developer focused on building modern, responsive, and interactive web applications. I enjoy turning ideas into real products using clean code and creative design.<br><br>🚀 About Me<br><br>🎯 Focused on React.js, JavaScript, and modern web technologies<br><br>🎨 Love creating smooth UI/UX with animations and responsive layouts<br><br>📚 Currently learning backend development <br><br>🌱 Always learning and exploring new tools and frameworks
+👋 Hi, I'm Mohamed Mebarki<br>💻 Full-stack Web Developer<br><br> i'm passionate about building scalable web applications, creating innovative solutions, and exploring cybersecurity and DevOps.
+
+Currently working on Secret Management with HashiCorp Vault, containerized applications with Docker, and reverse proxy solutions using Traefik and NGINX.
+
+Interested in backend development, application security, infrastructure, and cloud technologies. Always learning, building, and exploring new technologies.
 
 
 ## 🌐 Socials:
